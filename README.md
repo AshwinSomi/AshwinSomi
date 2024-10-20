@@ -1,4 +1,10 @@
-## Hi there 👋
+<!--## Hi there 👋-->
+
+Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not limited to React, Next, Spring boot, Node
+
+Currently working on contract projects helping mordernizing their tech stack.
+
+you can reach me at ashwinsomi@gmail.com or +1 (928) 814 1768
 
 <!--
 **AshwinSomi/AshwinSomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
