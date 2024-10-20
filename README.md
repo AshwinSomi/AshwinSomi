@@ -1,8 +1,24 @@
 <!--## Hi there 👋-->
+# Ashwin <AshwinSomi> 
 
-Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not limited to React, Next, Spring boot, Node
+Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not limited to React, Next, Spring boot
 
 Currently working on contract projects helping mordernizing their tech stack.
+
+# About me
+```
+
+                 _-====-__-======-__-========-________-================-__
+               _(                                                         _)
+            OO(    i also like GraphQL, worked on redis, kafka,            )_
+           0  (_         databases, Node, firebase, aws, docker       ____)
+         o0     (_                                                ___)
+        .o        '=-___-===-_____-========-___________-===-dwb-='                             
+    . '
+   O
+  /|\
+  / \
+```
 
 you can reach me at ashwinsomi@gmail.com or +1 (928) 814 1768
 
