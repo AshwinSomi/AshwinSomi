@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-# Ashwin <AshwinSomi> 
+# Ashwin <Ashwin_Somi> 
 
 Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not limited to React, Next, Spring boot
 
