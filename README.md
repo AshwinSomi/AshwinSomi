@@ -6,6 +6,7 @@ Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not 
 Currently working on contract projects helping mordernizing their tech stack.
 
 # About me
+I like listening to music 
 ```
 
                  _-====-__-======-__-========-________-================-__
