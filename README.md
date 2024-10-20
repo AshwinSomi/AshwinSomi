@@ -13,7 +13,7 @@ Currently working on contract projects helping mordernizing their tech stack.
             OO(    i also like GraphQL, worked on redis, kafka,            )_
            0  (_         databases, Node, firebase, aws, docker       ____)
          o0     (_                                                ___)
-        .o        '=-___-===-_____-========-___________-===-dwb-='                             
+        .o        '=-___-===-_____-========-___________-===-----='                             
     . '
    O
   /|\
