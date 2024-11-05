@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 # Ashwin <Ashwin_Somi> 
 
-Hi, I am Ashwin, I am a web developer, doing a little bit of everything but not limited to React, Next, Spring boot
+Hi, I am Ashwin, I am a developer, doing a little bit of everything but not limited to React, Next, Spring boot
 
 Currently working on contract projects helping mordernizing their tech stack.
 
