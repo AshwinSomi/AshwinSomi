@@ -11,8 +11,8 @@ I like listening to music
 
                  _-====-__-======-__-================-________-===========-__
                _(                                                           _)
-            OO(    i also like to work with GraphQL, And I worked with redis, )_
-           0  (_         kafka, databases, REST, firebase, aws, docker  ____)
+            OO(    i also like to work with GraphQL, And I worked with       )_
+           0  (_         redis, kafka, databases, REST, firebase, aws   ____)
          o0     (_                                                _____)
         .o        '=-___-===-_____-========-___________-===-----='                             
     . '
