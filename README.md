@@ -1,7 +1,8 @@
 <!--## Hi there 👋-->
 # Ashwin <Ashwin_Somi> 
 
-Hi, I am Ashwin, I am a developer, doing a little bit of everything but not limited to React, Next.js, Spring boot, Node.js
+Hi, I am Ashwin, I am a developer, I am doing a little bit of everything but not limited to React, Spring boot, Node.js.
+I have experiences with  C, Python, Java, JavaScript, TypeScript,... .
 
 Currently working on contract projects helping mordernizing their tech stack.
 
@@ -11,8 +12,8 @@ I like listening to music
 
                  _-====-__-======-__-================-________-===========-__
                _(                                                           _)
-            OO(    i also like to work with GraphQL, And I worked with       )_
-           0  (_         redis, kafka, databases, REST, firebase, aws   ____)
+            OO(    i also like to work with GraphQL, ..                      )_
+           0  (_                                                        ____)
          o0     (_                                                _____)
         .o        '=-___-===-_____-========-___________-===-----='                             
     . '
