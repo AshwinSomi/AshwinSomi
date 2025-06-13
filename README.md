@@ -1,20 +1,18 @@
 <!--## Hi there 👋-->
 # Ashwin <Ashwin_Somi> 
 
-Hi, I am Ashwin, I am a developer, I am doing a little bit of everything but not limited to React, .NET, Spring boot, Node.js.
-I have experiences with  C, Python, C#, Java, JavaScript, TypeScript,... .
+Hi, I am Ashwin, I am a developer, I am doing a little bit of everything but not limited to Python, React, Spring boot, Node.js.
+I have experiences with  Python, Java, C, SQL, C#, JavaScript, TypeScript,... .
 
 Currently working on contract projects helping mordernizing their tech stack.
 
-# About me
-I like listening to music 
+# About me 
 ```
 
                  _-====-__-======-__-================-________-===========-__
-               _(                                                           _)
-            OO(    i also like to work with GraphQL, ..                      )_
-           0  (_                                                        ____)
-         o0     (_                                                _____)
+               _(               I like listening to music.                  _)
+            OO(                  and I like learning new things         ____)
+         o0     (_                       and debugging             _____)
         .o        '=-___-===-_____-========-___________-===-----='                             
     . '
    O
