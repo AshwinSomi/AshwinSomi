@@ -1,8 +1,8 @@
 <!--## Hi there 👋-->
 # Ashwin <Ashwin_Somi> 
 
-Hi, I am Ashwin, I am a developer, I am doing a little bit of everything but not limited to Python, React, Spring boot, Node.js.
-I have experiences with  Python, Java, C, SQL, C#, JavaScript, TypeScript,... .
+Hi, I am Ashwin, I am a Software developer, I am doing a little bit of everything but not limited to Python, SQL, React, Spring boot, Node.js.
+I have experiences with  Python, Java, C, SQL, JavaScript, TypeScript, C#... .
 
 Currently working on contract projects helping mordernizing their tech stack.
 
